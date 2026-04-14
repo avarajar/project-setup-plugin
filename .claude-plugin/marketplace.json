@@ -1,0 +1,18 @@
+{
+  "name": "project-setup-marketplace",
+  "owner": {
+    "name": "Jose Andrade",
+    "email": "avarajar@github.com"
+  },
+  "plugins": [
+    {
+      "name": "project-setup",
+      "source": "./project-setup",
+      "description": "Bootstrap Claude Code configuration for any project - detect stack, search registries, install skills, generate CLAUDE.md",
+      "version": "1.0.0",
+      "author": {"name": "Jose Andrade"},
+      "homepage": "https://github.com/avarajar/project-setup-plugin",
+      "license": "MIT"
+    }
+  ]
+}
